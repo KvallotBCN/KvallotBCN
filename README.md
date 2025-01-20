@@ -6,7 +6,7 @@ In addition to my IT consulting background, I’ve recently completed a 9-week D
 
 🌍 Based in: Barcelona, Spain\
 📫 Reach me at: kevin.vallot@gmail.com\
-💼 [Linkedin](https://www.linkedin.com/in/kevin-vallot-35266a3a/)  [Troopl](https://troopl.com/kevinvallot)
+💼 [Linkedin](https://www.linkedin.com/in/kevin-vallot-35266a3a/) | [Troopl](https://troopl.com/kevinvallot)
 
 ### 🧑‍💻 My GitHub Projects:
 Below are some highlighted projects related to Data Science, Machine Learning, and AI that I have been working on or plan to explore further:
