@@ -11,7 +11,6 @@ In addition to my IT consulting background, I’ve recently completed a 9-week D
 ### 🧑‍💻 <ins>My GitHub Projects </ins>:
 Below are some highlighted projects related to Data Science, Machine Learning, and AI that I have been working on or plan to explore further:
 
-#### Data Science & AI Projects:<br/>
 <b><ins>[Device Incident Prediction]</ins></b>: A project leveraging historical device management logs to predict and preempt potential incidents using Scikit-Learn and TensorFlow.\
 <b><ins>[NY Taxifare Price Prediction]</ins></b>: An end-to-end ML project from my bootcamp, building a regression model to predict taxi fares in New York using Pandas, Numpy, and Scikit-Learn.\
 <b><ins>[Fleet Optimization Analysis]</ins></b>: Analysis of device usage and performance to optimize enterprise fleet operations, using Python and visualization libraries like Matplotlib and Seaborn.
